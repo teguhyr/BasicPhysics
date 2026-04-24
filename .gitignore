@@ -1,0 +1,15 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated images and media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webm
+```
